@@ -30,3 +30,7 @@ ros2 run ros2_qt_demo ros2_qt_demo
 
 <div align=center><img src="./resource/images/result.png" alt="Image" width=80%>
 
+
+
+# reference
+This demo is fork from [https://github.com/chengyangkj/ros2_qt_demo](https://github.com/chengyangkj/ros2_qt_demo), and do some update to match ROS2 humble. Thanks!
