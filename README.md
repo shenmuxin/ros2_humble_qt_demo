@@ -28,5 +28,5 @@ ros2 run ros2_qt_demo ros2_qt_demo
 
 # result
 
-<div align=center><img src="https://pic.imgdb.cn/item/6629b4c20ea9cb14036e049e.png" alt="Image" width=80%>
+<div align=center><img src="./resource/images/result.png" alt="Image" width=80%>
 
