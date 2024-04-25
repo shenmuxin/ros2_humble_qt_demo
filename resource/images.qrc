@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>images/ros-icon.png</file>
+        <file>images/humble.png</file>
+    </qresource>
+</RCC>
