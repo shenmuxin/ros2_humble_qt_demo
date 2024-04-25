@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(ros2_qt_demo)
+project(ros2_humble_qt_demo)
 
 # Default to C99
 if(NOT CMAKE_C_STANDARD)

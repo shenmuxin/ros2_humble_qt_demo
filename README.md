@@ -1,4 +1,4 @@
-# ros2_qt_demo
+# ros2_humble_qt_demo
 A demo pkg for ros2 and qt, and test in ros2 humble.
 
 Configurations:
@@ -22,7 +22,7 @@ Make sure you have sourced your workspace and then run in terminal:
 ```bash
 cd <your_workspace>
 source install/setup.bash
-ros2 run ros2_qt_demo ros2_qt_demo
+ros2 run ros2_humble_qt_demo ros2_humble_qt_demo
 ```
 
 
@@ -33,4 +33,4 @@ ros2 run ros2_qt_demo ros2_qt_demo
 
 
 # reference
-This demo is fork from [https://github.com/chengyangkj/ros2_qt_demo](https://github.com/chengyangkj/ros2_qt_demo), and do some updates to match ROS2 humble. Thanks!
+This demo forks from [https://github.com/chengyangkj/ros2_qt_demo](https://github.com/chengyangkj/ros2_qt_demo), and do some updates to match ROS2 humble. Thanks!
