@@ -37,7 +37,7 @@
      </rect>
     </property>
     <property name="text">
-     <string>Hello ROS2!</string>
+     <string>Hello ROS2 humble!</string>
     </property>
    </widget>
    <widget class="QLabel" name="label_3">
@@ -45,12 +45,12 @@
      <rect>
       <x>10</x>
       <y>360</y>
-      <width>291</width>
+      <width>311</width>
       <height>21</height>
      </rect>
     </property>
     <property name="text">
-     <string>This is a demo for ROS2 Qt App</string>
+     <string>This is a demo for ROS2 humble with Qt app.</string>
     </property>
    </widget>
    <widget class="QLabel" name="label_4">
@@ -73,7 +73,7 @@
      <x>0</x>
      <y>0</y>
      <width>800</width>
-     <height>28</height>
+     <height>22</height>
     </rect>
    </property>
   </widget>

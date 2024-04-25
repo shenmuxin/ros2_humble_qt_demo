@@ -1,16 +1,32 @@
 # ros2_qt_demo
-a demo for ros2 and qt
+A demo pkg for ros2 and qt, and test in ros2 humble.
 
-test in ros2 foxy
+Configurations:
+
+- Ubunt 22.04
+- Ros2 Humble
+- Qt Creator 13.0.0
+- ROS ProjectManager 13.0.0
+
+
 # how to build
-```shell
+You can click the `build` button in  Qt Creator or just use the CLT in the workspace of qt as:
+
+```bash
 colcon build
 ```
+
 # how to use
-make sure you are sourced your workspace and then run in terminal:
-```shell
+Make sure you have sourced your workspace and then run in terminal:
+
+```bash
+cd <your_workspace>
+source install/setup.bash
 ros2 run ros2_qt_demo ros2_qt_demo
 ```
-# preview
 
-[![74-D792-AC-191-C-4532-9973-B683-E1-E8-C1-BB.png](https://i.postimg.cc/C5vqK0Yk/74-D792-AC-191-C-4532-9973-B683-E1-E8-C1-BB.png)](https://postimg.cc/7J26Bp5Z)
+
+# result
+
+<div align=center><img src="https://pic.imgdb.cn/item/6629b4c20ea9cb14036e049e.png" alt="Image" width=80%>
+
